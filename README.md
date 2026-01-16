@@ -112,7 +112,20 @@ backend/
 
 ## Screenshots
 
-Screenshots will be added as features are completed (Admin dashboard, API testing, and documentation views).
+### Backend Architecture
+![Backend Architecture](screenshots/01-backend-architecture.png)
+
+### Custom User Management (Django Admin)
+![Custom User Management](screenshots/02-custom-user-management.png)
+
+### Django Admin Dashboard
+![Django Admin Dashboard](screenshots/03-django-admin-dashboard.png)
+
+### Order Management (Status & Filters)
+![Order Management](screenshots/04-order-management.png)
+
+### GitHub Repository Setup
+![GitHub Repository](screenshots/05-github-repository.png)
 
 ---
 
