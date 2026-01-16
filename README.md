@@ -37,6 +37,7 @@ This repository reflects **real learning through building**, not just tutorials.
 - **Database:** SQLite (development)
 - **Admin Interface:** Django Admin
 - **Version Control:** Git & GitHub
+- **API Framework:** Django REST Framework (DRF)
 
 ---
 
